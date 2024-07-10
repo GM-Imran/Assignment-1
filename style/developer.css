@@ -18,3 +18,19 @@ nav{
     justify-content: space-between;
     margin: 0 200px;
 }
+.banner{
+  margin: 0 200px;
+  text-align: center;
+}
+.banner-title{
+  font-size: 48px;
+  font-weight: 800;
+}
+.btn-primary{
+  background-color: black;
+  color: white;
+  padding: 21px 24px;
+}
+.nav-button{
+  padding: 17px 24px;
+}
