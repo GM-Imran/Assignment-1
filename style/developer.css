@@ -31,6 +31,40 @@ nav{
   color: white;
   padding: 21px 24px;
 }
+
+.section-title{
+  font-size: 32px;
+  font-weight: bold;
+  color: #0D1321;
+}
+
+
 .nav-button{
   padding: 17px 24px;
+}
+/* main style */
+main{
+  max-width: 1140px;
+  margin: 0 auto;
+}
+.why-web{
+  padding: 60px 97px;
+}
+
+.section-heading{
+  text-align: center;
+}
+
+.why-web-area{
+  display: flex;
+  padding: 48px;
+}
+
+.why-web-content{
+  margin:0 100px ;
+}
+
+.why-title{
+  font-size: 24px;
+  font-weight: 700;
 }
