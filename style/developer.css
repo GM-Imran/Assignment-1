@@ -1,0 +1,20 @@
+
+
+.azeret-mono-normal {
+  font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+/* header */
+header{
+  background-image: url('../images/assets/Hero-bg.png');
+  background-repeat: no-repeat;
+}
+
+/* Nav style */
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 200px;
+}
