@@ -10,6 +10,8 @@
 .banner-area{
   background-image: url('../images/assets/Hero-bg.png');
   background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
 
 /* Nav style */
