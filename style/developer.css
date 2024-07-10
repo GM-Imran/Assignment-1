@@ -53,6 +53,7 @@ main{
 
 .section-heading{
   text-align: center;
+  padding: 0 100px;
 }
 
 .why-web-area{
@@ -67,4 +68,27 @@ main{
 .why-title{
   font-size: 24px;
   font-weight: 700;
+}
+
+.veido-area{
+  text-align: center;
+}
+
+/* skills section styles */
+.skills-container{
+  display: flex;
+  gap: 24px;
+}
+
+.skill{
+   padding: 40px;
+}
+.first-skill{
+  background-color: #FFFDF2;
+}
+.second-skill{
+  background-color: #F2F6FE;
+}
+.third-skill{
+  background-color: #EFF2F9;
 }
