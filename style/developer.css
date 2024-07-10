@@ -7,7 +7,7 @@
 }
 
 /* header */
-header{
+.banner-area{
   background-image: url('../images/assets/Hero-bg.png');
   background-repeat: no-repeat;
 }
@@ -26,10 +26,15 @@ nav{
   font-size: 48px;
   font-weight: 800;
 }
+.banner-description{
+  margin-bottom: 30px;
+}
 .btn-primary{
   background-color: black;
   color: white;
   padding: 21px 24px;
+  text-decoration: none;
+  
 }
 
 .section-title{
@@ -49,6 +54,7 @@ main{
 }
 .why-web{
   padding: 60px 97px;
+  background-color: #FAFAFB;
 }
 
 .section-heading{
@@ -91,4 +97,36 @@ main{
 }
 .third-skill{
   background-color: #EFF2F9;
+}
+.input-area{
+  text-align: center;
+}
+.input-item{
+  width: 400px;
+  height: 50px;
+}
+.support-section{
+  background-image: url("../images/assets/handshake.jpg");
+  background-repeat: no-repeat;
+  padding: 64px 48px;
+  background-position: center;
+  background-size: cover;
+  margin-top: 60px;
+}
+
+.white-text{
+  color: white;
+  
+}
+
+footer{
+  max-width: 1140px;
+  margin: 0 auto;
+}
+
+#open-commit{
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-between;
+  
 }
